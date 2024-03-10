@@ -849,7 +849,7 @@ footer {
   #bars {
     display: flex;
     color: #fff;
-    margin-right:-1rem;
+    margin-left:3rem;
     font-size: xx-large;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
   }
