@@ -1,4 +1,4 @@
-Link - ["https://guruvachan-portfolio-website-ruddy-ten.vercel.app/"]
+Link - ["https://guruvachan-portfolio-website-ruddy-ten.vercel.app"]
 # My Awesome Portfolio Website
 This is my personal portfolio website where I showcase my skills, qualifications, projects, and contact information. I built this website using HTML, CSS, and JavaScript.
 
