@@ -1041,6 +1041,23 @@ footer {
     font-size: 80px;
     padding-top: 2rem;
   }
+   .mainSquare {
+    width: 120px;
+    height: 120px;
+    margin-top: -1rem;
+}
+.react-rotate {
+  left: -9.6rem;
+}
+.html-rotate {
+  top: -9.6rem;
+}
+.javascript-rotate {
+  left: 7.1rem;
+}
+.css-rotate {
+  top: 7.1rem;
+}
 
   .faded-text {
     left: 20%;
@@ -1093,11 +1110,12 @@ footer {
   .school-date {
     left: 9rem;
   }
-.about-para{
-  margin-left: 0;
+  .about-main-section {
+    text-align:center;
+    margin:0.5rem 0.5rem 0.5rem 0.5rem;
 }
-
   .resume-btn {
+    top: 2rem;
     left: 0;
     display: flex;
     align-items: center;
