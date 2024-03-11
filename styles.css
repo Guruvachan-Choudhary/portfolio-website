@@ -62,7 +62,7 @@ body {
 }
 
 .logo-text {
-  font-size: 30px;
+  font-size: 10px;
 }
 
 .nav-items {
@@ -93,6 +93,7 @@ body {
 
 .nav-items li a:hover {
   border-bottom: 2px solid orange;
+  color:#fff;
 }
 
 .hero-section {
