@@ -1021,7 +1021,10 @@ footer {
   .hero-section {
     margin: 0;
   }
-
+.logo-text {
+  position:absolute;
+  font-size: 10px;
+}
   .hero-section-left {
     margin-top: 1.5rem;
     margin-left: 0;
