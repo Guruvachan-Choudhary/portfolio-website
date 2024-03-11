@@ -1116,7 +1116,7 @@ footer {
 }
   .resume-btn {
     top: 2rem;
-    left: 0;
+    left: -1rem;
     display: flex;
     align-items: center;
     justify-content: center;
